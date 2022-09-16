@@ -6,7 +6,7 @@ The purpose of this project is to analyze different green energy stocks in order
 The analysis of the project will be done downloading all the green stocks information for the years 2017 and 2018, and then using VBA and Excel to automate tasks. By using this programming language Steve will be able to run the analysis for each year any time he wants. 
 
 ## Results
-There were a series of steps taken to make the analysis of the green stocks. First, the outline of the code was downloaded and pasted into the VBA_Challenge file. Then, a ticker Index was created as well as 3 output arrays called: *tickerVolumes*, *tickerStartingPrices*, and *tickerEndingPrices. 
+There were a series of steps taken to make the analysis of the green stocks. First, the outline of the code was downloaded and pasted into the VBA_Challenge file. Then, a ticker Index was created as well as 3 output arrays called: *tickerVolumes*, *tickerStartingPrices*, and *tickerEndingPrices*. 
 
 <img width="298" alt="1 green stocks" src="https://user-images.githubusercontent.com/111388644/190713904-cb969a2b-1503-47ad-a237-54c540199053.png">
 
